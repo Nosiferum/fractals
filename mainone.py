@@ -3,3 +3,5 @@ def carpma(x, y):
 
 def merhaba():
 	print("Hello")
+
+print(2)
